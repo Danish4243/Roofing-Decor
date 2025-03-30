@@ -1,0 +1,24 @@
+@media only screen and (max-width: 1199px){
+	h1,.h1{
+        font-size: calc(28px + (50 - 28) * ((100vw - 320px) / (1920 - 320)));
+	}
+	h2,.h2{
+        font-size: calc(24px + (36 - 24) * ((100vw - 320px) / (1920 - 320)));
+	}
+	h3,.h3{
+        font-size: calc(22px + (28 - 22) * ((100vw - 320px) / (1920 - 320)));
+	}
+	h4,.h4{
+        font-size: calc(20px + (24 - 20) * ((100vw - 320px) / (1920 - 320)));
+	}
+	h5,.h5{
+        font-size: calc(18px + (22 - 18) * ((100vw - 320px) / (1920 - 320)));
+	}
+	h6,.h6{
+        font-size: calc(22px + (22- 16) * ((100vw - 320px) / (1920 - 320)));
+	}
+	.banner-sec{
+		padding: calc(100px + (240 - 100) * ((100vw - 320px) / (1920 - 320))) 0 ;
+	}
+}
+
