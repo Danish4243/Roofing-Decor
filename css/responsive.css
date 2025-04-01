@@ -166,6 +166,11 @@
     .portfolio-card.portfolio-card-style .portfolio-card-details .portfolio-card-title {
         font-size: 30px;
     }
+
+    /* header */
+    .header-wrapper .menu-area .logo-bg {
+        width: 325px;
+    }
 }
 
 
@@ -504,6 +509,11 @@
     .sidemenu-wrapper .sidemenu-content {
         width: 320px;
         padding: 80px 20px;
+    }
+
+    /* Image Card */
+    .img-card img {
+        height: 350px;
     }
 
     /* Banner */
