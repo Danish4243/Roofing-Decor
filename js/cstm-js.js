@@ -1,6 +1,6 @@
 // Tilt js
 
-$(".roof, .benefit-img-1, .about-img-1, .about-img-2, .why-tab-ctnt, .blog-card, .area-check").tilt({
+$(".roof, .benefit-img-1, .about-img-1, .about-img-2, .why-tab-ctnt, .blog-card, .area-check, .truck-wpr").tilt({
 	glare: true,
 	maxGlare: 0.5,
 	speed: 1500,
